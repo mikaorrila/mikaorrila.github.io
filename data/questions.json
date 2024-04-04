@@ -1,0 +1,33 @@
+[
+    {
+      "question": "Kuka heistä on yksi Applen perustajista?",
+      "options": ["Steve Jobs", "Steve Wozniak", "Bill Murray", "Mark Walhberg"],
+      "correct_answer": "Steve Wozniak"
+    },
+    {
+      "question": "Kuka loi Linuxin?",
+      "options": ["Jesse James", "Linus Torvalds", "Mark Twain", "Herald Linux"],
+      "correct_answer": "Linus Torvalds"
+    },
+    {
+      "question": "Microsoftin perustaja on?",
+      "options": ["Harry Potter", "Stevie Wonder", "Bill Gates", "Marco Machine"],
+      "correct_answer": "Bill Gates"
+    },
+    {
+      "question": "Kuka perusti Googlen yhdessä Sergey Brinin kanssa?",
+      "options": ["Harry Stone", "Jekyll Hide", "Larry Page", "Jack Reacher"],
+      "correct_answer": "Larry Page"
+    },
+    {
+      "question": "Kuka oli mukana perustamassa Facebook?",
+      "options": ["Oliver Stone", "Heather Lango", "Mark Zuckerberg", "Anthon Wilson"],
+      "correct_answer": "Mark Zuckerberg"
+    },
+    {
+      "question": "Twitter, nykyään X, mutta kuka perusti Twitterin?",
+      "options": ["Jack Dorsey", "Elon Musk", "Elton John", "Mike Andrew"],
+      "correct_answer": "Jack Dorsey"
+    }
+  ]
+  
